@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">C346 Assignment</string>
+    <string name="url">https://github.com/qtypatooty</string>
+    <string name="website">Website</string>
+    <string name="settings">Start</string>
+    <string name="intro">This application is used for maintaining a list of products and their warranty expiry date. \n
+    \nFeatures of the application: \nAdd a new product and its expiry date \nLet user update a product and its expiry date \nLet user delete a product \nApplication will show products and its warranty expiry date</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="del">Delete</string>
+    <string name="thefilter">Expires in</string>
+    <string name="clr">Clear</string>
+    <string-array name="spinnerProducts">
+        <item>Add a new product</item>
+        <item>Update a product</item>
+        <item>Delete a product</item>
+    </string-array>
+    <string-array name="spinnerDate">
+        <item>Expiring in 1 month</item>
+        <item>Expiring in 3 months</item>
+        <item>Expiring in 6 months</item>
+    </string-array>
+    <string name="hintAdd">Type in the product name here</string>
+    <string name="hintDate">Type in the year you are checking for</string>
+    <string name="hintDate2">Type in the month you are checking for</string>
+    <string name="hintDel">Type in the index of the product to be removed</string>
+    <string name="hintUpdate">Type in the product you want to update</string>
+    <string name="editdate">Type in the warranty expiring date</string>
+    <string name="editNewDate">Type in the new warranty expiring date</string>
+    <string name="editNewProduct">Type in the new product name here</string>
+    <string name="search">Search product...</string>
+</resources>
